@@ -1,51 +1,45 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 👶 Velha Infância
 
-## 🚀 Introdução
+## 🌟 Introdução  
+Quem aí não sente saudades dos tempos de criança? Brincadeiras, amigos, momentos de alegria e despreocupação… tempos que não voltam mais, mas que permanecem vivos na memória. Este projeto é uma homenagem a essa fase tão especial da vida, utilizando inteligência artificial para resgatar emoções e criar uma narrativa visual nostálgica.
 
-> Woooow! Look at this 👀
+## 🤖 Tecnologias Utilizadas  
+Para a criação do vídeo, utilizei a plataforma [Invideo AI](https://ai.invideo.io/), que permite gerar vídeos com avatares realistas a partir de comandos de texto (prompts). Com ela, foi possível definir:
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+- O estilo e o tom do vídeo  
+- As imagens e movimentos do avatar  
+- A ambientação visual e sonora
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🧐 Processo de Criação  
+O processo começou com uma pesquisa exploratória em plataformas como:
 
-### Objetivos
+- YouTube Shorts  
+- Instagram Reels  
+- TikTok  
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Essas redes sociais revelaram uma grande variedade de conteúdos criativos produzidos com ferramentas de IA. A partir dessas referências, elaborei um roteiro simples e emocional, focado em despertar a memória afetiva do público.
 
-### Template
+## 🎬 Resultado  
+📺 **Assista ao vídeo completo aqui:** [Inserir link do vídeo]
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## 💭 Reflexão  
+Vivemos uma era de transformação acelerada, onde a tecnologia — especialmente a inteligência artificial — está moldando novas formas de criar, comunicar e impactar. Para profissionais de TI, é essencial manter-se em constante aprendizado e adaptação.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Acredito que as ferramentas de IA não substituem talentos humanos, mas sim ampliam nosso potencial criativo. Saber utilizá-las com propósito é o que diferencia um profissional preparado de um mero operador de tecnologia.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+---
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 📌 Estrutura do Repositório (se aplicável)
+```
+📁 velha-infancia/
+├── 📄 README.md
+├── 📄 roteiro.txt
+├── 📄 prompts-utilizados.txt
+├── 📁 assets/
+│   ├── 🎵 trilha-sonora.mp3
+│   └── 🖼️ imagens-referencia/
+└── 📄 link-video.txt
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 📣 Compartilhe!
+Se você curtiu o projeto, sinta-se à vontade para deixar uma ⭐ no repositório ou compartilhar nas redes sociais.  
