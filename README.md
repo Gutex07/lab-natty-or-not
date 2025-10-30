@@ -4,7 +4,7 @@
 Quem aí não sente saudades dos tempos de criança? Brincadeiras, amigos, momentos de alegria e despreocupação… tempos que não voltam mais, mas que permanecem vivos na memória. Este projeto é uma homenagem a essa fase tão especial da vida, utilizando inteligência artificial para resgatar emoções e criar uma narrativa visual nostálgica.
 
 ## 🤖 Tecnologias Utilizadas  
-Para a criação do vídeo, utilizei a plataforma [Invideo AI](https://ai.invideo.io/), que permite gerar vídeos com avatares realistas a partir de comandos de texto (prompts). Com ela, foi possível definir:
+Para a criação do vídeo, utilizei a plataforma [Pippit](https://www.pippit.ai/), que permite gerar vídeos com avatares realistas a partir de comandos de texto (prompts). Com ela, foi possível definir:
 
 - O estilo e o tom do vídeo  
 - As imagens e movimentos do avatar  
@@ -20,7 +20,7 @@ O processo começou com uma pesquisa exploratória em plataformas como:
 Essas redes sociais revelaram uma grande variedade de conteúdos criativos produzidos com ferramentas de IA. A partir dessas referências, elaborei um roteiro simples e emocional, focado em despertar a memória afetiva do público.
 
 ## 🎬 Resultado  
-📺 **Assista ao vídeo completo aqui:** [Inserir link do vídeo]
+📺 **Assista ao vídeo completo aqui:** [https://www.youtube.com/shorts/OtDej2hvL5w]
 
 ## 💭 Reflexão  
 Vivemos uma era de transformação acelerada, onde a tecnologia — especialmente a inteligência artificial — está moldando novas formas de criar, comunicar e impactar. Para profissionais de TI, é essencial manter-se em constante aprendizado e adaptação.
